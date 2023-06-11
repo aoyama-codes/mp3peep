@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mp3peep.props" />
+</Project>
